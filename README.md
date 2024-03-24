@@ -3,3 +3,5 @@
 ## 1. Blink LED
 ## 2. Traffic lights
 ## 3. Potentiometre
+## 4. Photo Resistor
+  The photo resistor is a resistor whose resistance varies accorrding to the quantity of lights that it recives. An intence incent of light reduces its resistance but a weaker increases the resistance. For this component, we'll need to read the anolog values and that's what you'll see in the code !
